@@ -123,5 +123,3 @@ graph TD
 /index.php      # Entry point
 ```
 
----
-Dibuat oleh AI Agent Antigravity.
